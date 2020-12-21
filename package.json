@@ -4,8 +4,8 @@
   "description": "web scraping with typescript",
   "main": "scraper.js",
   "scripts": {
-    "start":"ts-node src/scraper.ts",
-    "scraper":"tsnd --respawn src/scraper.ts"
+    "start": "ts-node src/scraper.ts",
+    "scraper": "tsnd --respawn src/scraper.ts"
   },
   "keywords": [
     "scraping",
@@ -15,7 +15,7 @@
   "author": "jos",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^5.4.0"
+    "puppeteer": "^5.5.0"
   },
   "devDependencies": {
     "@types/puppeteer": "^3.0.2",
