@@ -4,8 +4,8 @@
   "description": "web scraping with typescript",
   "main": "scraper.js",
   "scripts": {
-    "start":"ts-node src/scraper.ts",
-    "scraper":"tsnd --respawn src/scraper.ts"
+    "start": "ts-node src/scraper.ts",
+    "scraper": "tsnd --respawn src/scraper.ts"
   },
   "keywords": [
     "scraping",
